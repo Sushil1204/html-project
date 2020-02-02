@@ -1,0 +1,29 @@
+.bg-nav{
+	background-color: #563d7c;
+}
+
+.slider{
+	height: 510px;
+	width: 100%;
+}
+
+.a{
+	color: #fff;
+}
+
+.md-50{
+	margin-bottom: 20px;
+}
+
+.mt-50{
+	margin-top: 20px;
+}
+
+.body-bg{
+	background-color: antiquewhite;
+}
+
+.text{
+	font-family: Playfair Display;
+	font-size: 54px;
+}
